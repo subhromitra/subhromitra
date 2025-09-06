@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Subhro Mitra
+# 👋 Hi, I’m Subhrajit Mitra an IIT KGP pursuing M.Tech in CSE
 
 ## 🎓 Aspiring Machine Learning Research Engineer
 
